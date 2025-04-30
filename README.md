@@ -14,7 +14,20 @@
 - 🖼️ **Custom logo & branding** – Includes BiteWise logo and layout
 
 ---
+## 📸 Demo Screenshot
 
+![Homepage](Image/Home.jpg)
+![Predicted1](Image/Predicted1.jpg)
+![Predicted](Image/predicted2.jpg)
+---
+
+## 🌐 Live Demo (Try it yourself!)
+
+👉 [🔗 Click here to open the Streamlit app](https://adeyemibolaji-bitewise-app-app-3yu4r8.streamlit.app/)
+
+✅ You can test different car combinations and see the predicted price instantly!
+
+---
 ## 📁 Project Structure
 
 ```bash
